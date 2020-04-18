@@ -14,9 +14,6 @@ namespace Algo
             Console.WriteLine(lengthOfLongestSubstring("abbcc")); 
             Console.WriteLine(lengthOfLongestSubstring("abbcc")); 
 
-
-
-
         }
         public static int lengthOfLongestSubstring(String s)
         {
